@@ -2,7 +2,7 @@
 A project that graphs data ( entire thing made in python)
 Libraries that were used:
 Tkinter for the user interface, matplotlib for the plotting graphs, Pandas for the displaying of the plotted data.
-Made for the purposes of learning about python's UI libraries and making a functional app.
+Made for the purposes of learning about python's UI libraries and making a functional app 
 
 
 
